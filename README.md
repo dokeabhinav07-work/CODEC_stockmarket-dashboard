@@ -35,10 +35,6 @@ This dashboard allows users to enter any stock ticker symbol and instantly view 
 4. Plotly generates interactive candlestick and volume charts
 5. 20-day and 50-day moving averages are calculated using Pandas and overlaid on the price chart
 
-## Screenshots
-
-*(Add your app screenshots here)*
-
 ## Running Locally
 
 ```bash
